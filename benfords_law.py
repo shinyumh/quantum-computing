@@ -38,4 +38,3 @@ if __name__ == "__main__":
 
 #additional comments
 '''odd split in graph, try using bar instead of hist to plot graph'''
-''score 3'''
